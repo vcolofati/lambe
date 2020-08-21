@@ -5,7 +5,8 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs'
 import Icon from 'react-native-vector-icons/FontAwesome'
 
 import Feed from './screens/Feed'
-import AddPhoto from  './screens/AddPhoto'
+import AddPhoto from './screens/AddPhoto'
+import Profile from './screens/Profile'
 
 const Tab = createBottomTabNavigator();
 
@@ -40,7 +41,7 @@ export default function menuNavigator() {
         />
         <Tab.Screen
           name="Profile"
-          component={Feed}
+          component={Profile}
           options={{
             tabBarLabel: 'Profile',
             tabBarIcon: ({ color }) => (
