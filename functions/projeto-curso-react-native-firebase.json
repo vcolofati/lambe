@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "projeto-curso-react-native",
+  "private_key_id": "37b8d1620c4836d11dbe68db479676161694f7a9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDRJIcMj5mOpjbz\npT0fIjDjbM8KSB2DBfyZGhtbZcDKRAji1VdOsZUKtkncknyfWpVVO9kSsilQErHp\n3vjQmYljslE3qQjw2lHXAPv+k8bT5BEc8KQe19G1fZAO+QUhLYMjOzB34KayZ010\nRkxIxmG0iLp6i1vnj6mlF5qi6TqFOIf2Oa7grs44POvxKLb6CkIV29u2m8fGbLIg\nbGL8yJe09TmrGOnRQsGZmfu1Hq4Telo5DgFLEYemDjEFFkUIMyGEuHvzmWglpKLj\nkQKpWZ/ndAm4UoA+s/OrfA4naPt6HW/5MpUge0d6v2H4nWiKg4p5fsAKqAch0vh9\nmRRzi5YpAgMBAAECggEAZKq5WmFwX0pAHwyFHAxADefczC0kD2H9UNBRJLAYmQMg\nZ9aanKU7gRl2+fWEiMt4H7ub47Tfz8v/2PtbNkUA7XzyPOFfDVd4lw3BPatxw6H+\nXrixtqrZJQuYIKzaPDsE6RtfXARFGJBCptoDc/ARLW22nK+hgBcVaAKxiwLKCT7q\nISseyaHP7pZOXPclUZnZ0PaekjUGfhjdKO1gaihV0NeKeDAva7s+Qd3sUNyioxVo\nWU6bSvrrTHhnAk0th2M/2ec+YUkhHVWXEsizi+vvGZgfAmZyqjxlJbn8qh101kC+\njTRnNMo3FsT2i45uK6VqQzl8kYUAKEpY7EJEwJYwpQKBgQD7pUnTPhyzcsNSR2eG\nWQLdKK7vjP94W42piS7TMQ3G42YDas2B5vo2wrKJ14ZX06ND+ZyrqvMpKkd6YB83\nI3NZ4Ix/5XSaLtW0O1JecQn1g46LrqNd1Dl3HmbJRCSjdMyf3Y4/3EsWQEtjlZDt\nzzoc2nXn9kwQzF0xnhKanoRscwKBgQDUwvbakNmWpksyZH5n9jkOmsStDPEzHCg7\nd8XTD1lmFWKM5sCL8Kgb+WaxUD/sfews4DeShtZkM6IA72G1RuoqIvUx/nPchweC\na1DwYs6+i2iTSa2qPuw0UrlmUoUWvBwxvqG9rWrHPc/8uibEc4BewbrZRb6wR4er\nZ97T/LiH8wKBgHhqH2l1z0YPJGe6w08GSNiLHyqBzb1KEf+OJVnpny4MokQAV1ZR\nsGmDwOs0tpRQMU/VoaKDqteH46wrUsSPsiLP0Gti4OjmgFw+BqwqaxmQWiV86696\nXgUiBw1IDkApI8FbwzXLtCJxoaGFcFRbVPN5lfHpaXygTffwK/bQ440BAoGAMQPB\nTtTz66rfw/o2zMiCmIS7Loq+vmGMOzb6kgcFN2lRzNgUH6kPcXJhYBP2xgq0cBov\nc0gw9+CVP9XmEpcFtzNafWv7USCicD885EQ/ENKZAuWEZqYcUGmGYLY+BuDLNgKO\nzF25LbFlyvkvmS5qsmm7G/bfWUkBTlGdmgSsllUCgYEAiiUvQErpU1mGQ0P+JlKC\nIZMBK4cojVYMAptUuhdqjoK9IbYXCSBKw50NDHxCHWH6uYachCw+ySnROHNYWXx3\nOsyYpiinh0RpXV6pbU5mi7VGXYy3eCXOsNYNTWnBi/dTxu9I24Ex7YH6CWAj+i0p\nF/hRmyk3VaYCx4G3Vqi/EAw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-il6lc@projeto-curso-react-native.iam.gserviceaccount.com",
+  "client_id": "107602884737706654692",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-il6lc%40projeto-curso-react-native.iam.gserviceaccount.com"
+}
