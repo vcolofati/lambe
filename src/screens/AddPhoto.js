@@ -13,7 +13,6 @@ import {
     ScrollView,
     Alert
 } from 'react-native'
-
 import ImagePicker from 'react-native-image-picker'
 
 const noUser = 'Você precisa estar logado para adicionar imagens'
@@ -21,7 +20,7 @@ const noUser = 'Você precisa estar logado para adicionar imagens'
 class AddPhoto extends Component {
     state = {
         image: null,
-        comment: ''
+        comment: '',
     }
 
     componentDidUpdate = prevProps => {
@@ -46,7 +45,7 @@ class AddPhoto extends Component {
             maxWidth: 800
         }, res => {
             if (!res.didCancel) {
-                this.setState({ image: { uri: res.uri, base64: res.base64 } })
+                this.setState({ image: { uri: res.uri, base64: res.data } })
             }
         })
     }

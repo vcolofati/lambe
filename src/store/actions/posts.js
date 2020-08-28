@@ -1,11 +1,10 @@
 import {
     SET_POSTS,
-    ADD_COMMENT,
     CREATING_POST,
     POST_CREATED
 } from './actionTypes'
-import axios from 'axios'
 import { setMessage } from './message'
+import axios from 'axios'
 
 export const addPost = post => {
     return (dispatch, getState) => {
